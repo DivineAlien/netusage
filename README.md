@@ -1,2 +1,2 @@
 # netusage
-tracks how much your internet usage is
+tracks how much is your internet usage
